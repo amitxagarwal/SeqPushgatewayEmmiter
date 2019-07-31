@@ -23,7 +23,7 @@ namespace SeqPushgatewayEmmiter
         public void On(Event<LogEventData> evt)
         {
             var applicationName = FormatTemplate(evt);
-            var pushGatewayUrl = "https://kmd-shareddev-monitoring.westeurope.cloudapp.azure.com/pushgateway";
+            var pushGatewayUrl = PushgatewayUrl;
             var seqPushgatewayWorkerName = "pushgateway-testworker";
             var instanceName = "default";
 

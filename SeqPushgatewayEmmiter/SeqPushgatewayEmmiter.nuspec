@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Seq.PushGatewayEmmiter</id>
+    <version>1.0.0</version>
+    <title>Seq.PushGatewayEmmiter</title>
+    <authors>Amit Agarwal</authors>
+    <owners>Amit Agarwal</owners>
+    <licenseUrl>https://github.com/amitxagarwal/SeqPushgatewayEmmiter</licenseUrl>
+    <projectUrl>https://github.com/amitxagarwal/SeqPushgatewayEmmiter</projectUrl>
+    <iconUrl>https://github.com/amitxagarwal/SeqPushgatewayEmmiter</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Seq.PushGatewayEmmiter</description>
+    <releaseNotes>Seq.PushGatewayEmmiter</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Amit</tags>
+  </metadata>
+  <files>
+<file src="bin\Debug\Prometheus.Client.MetricPusher.dll" target="lib\net45" />
+<file src="bin\Debug\Prometheus.Client.dll" target="lib\net45" />
+</files>
+</package>
