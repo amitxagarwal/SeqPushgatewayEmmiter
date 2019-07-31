@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Seq.PushGatewayEmmiter</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>Seq.PushGatewayEmmiter</title>
     <authors>Amit Agarwal</authors>
     <owners>Amit Agarwal</owners>
